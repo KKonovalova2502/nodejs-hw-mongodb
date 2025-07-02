@@ -1,0 +1,41 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# dotenv environment variables
+.env
+.env.test
+.env.*.local
+
+# Optional npm cache directory
+.npm
+
+# VS Code settings (optional)
+.vscode/
+
+# Output of build tools
+dist/
+build/
+tmp/
+temp/
+*.tsbuildinfo
+
+# Logs
+logs
+*.log
+log.txt
+
+# Coverage directory used by testing tools like istanbul
+coverage/
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Optional: lock files (if you're not using them)
+# package-lock.json
+# yarn.lock
+# pnpm-lock.yaml
